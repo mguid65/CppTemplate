@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+.idea
+CMakeUserPresets.json
+conan_provider.cmake
+cmake-build*
+build*
+
+__pycache__
